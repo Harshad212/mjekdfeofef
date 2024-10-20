@@ -1,5 +1,5 @@
 package com.Array.com;
-
+//Hello harshad
 public class MaxandMin {
 	public static void main(String[] args) {
 		int a[]= {10,40,23,56,11,16,68,72,54};
